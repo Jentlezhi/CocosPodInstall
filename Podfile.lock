@@ -1,0 +1,17 @@
+PODS:
+  - Reachability (3.2)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+
+DEPENDENCIES:
+  - Reachability (~> 3.2)
+  - SDWebImage (~> 3.8.1)
+
+SPEC CHECKSUMS:
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+
+PODFILE CHECKSUM: 7c1bf95700f5f5da190937703bab319c20c6eb61
+
+COCOAPODS: 1.0.1
